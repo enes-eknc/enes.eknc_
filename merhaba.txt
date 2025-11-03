@@ -1,4 +1,10 @@
+
 merhaba
 c++
 osman demire selamlar
 SelamAleyküm Github
+ eklemek için 
+git status
+git add merhaba.txt
+git commit -m "merhaba değiştirildi"
+git push origin main
